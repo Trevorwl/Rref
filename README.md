@@ -31,7 +31,7 @@ __Contains:__
 -flag that indicates whether or not a row is all zeros
   
 RowData::elementaryAdd is provided
-to allow for elementary row opearaions(see documentation).
+to allow for elementary row operations(see documentation).
 
 Operators are provided to allow for natural ordering of RowData objects.
 This allows for rows to be sorted in ascending order based on
