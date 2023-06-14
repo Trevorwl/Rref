@@ -24,7 +24,7 @@ __Contains:__
    
 -width of matrix row
 
--row numbers
+-numbers in row
   
 -index of pivot
   
